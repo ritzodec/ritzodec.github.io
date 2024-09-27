@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://ritzodec.github.io/sitemap.ritzodec.gz
+Sitemap: https://ritzodec.github.io/app/sitemap.ritzodec.gz
+Sitemap: https://ritzodec.github.io/assets/sitemap.ritzodec.gz
+Sitemap: https://ritzodec.github.io/css/sitemap.ritzodec.gz
+Sitemap: https://ritzodec.github.io/data/sitemap.ritzodec.gz
+Sitemap: https://ritzodec.github.io/includes/sitemap.ritzodec.gz
+Sitemap: https://ritzodec.github.io/item/sitemap.ritzodec.gz
+Sitemap: https://ritzodec.github.io/src/sitemap.ritzodec.gz
